@@ -32,8 +32,7 @@ Bunifu C# Framework - WinForms (<a href="https://www.nuget.org/packages/Bunifu.U
 Masaüstüne çıkarttığınız tüm dosyaları `packages\Bunifu.UI.WinForms.4.1.1\lib` konumunda ki dosyalar ile değiştirin. <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 ## Kolay Kurulum
-İndiriğiniz Dosyanın İçinde ki ve `ModernGUI_V3` dosyasının içinde ki  `1A-Buraya Çıkartın` adlı rar dosyalarını sağ tıklayıp buraya çıkart yap yapınız. <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /> İndiriğiniz Dosyanın İçinde ki ve `ModernGUI_V3` dosyasının içinde ki  `1A-Buraya Çıkartın` adlı rar dosyalarını sağ tıklayıp buraya çıkart yap yapınız. 
 
 <br/>
 <br/>
