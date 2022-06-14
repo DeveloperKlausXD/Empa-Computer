@@ -1,4 +1,4 @@
-# Bilgisayar Toplama Otamasyonu 
+# Computer Aggregation Automation
 
 
 ## English Setup
